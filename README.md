@@ -121,7 +121,8 @@ Capacidade de criar um novo carrinho e possuir apenas um como ativo.
 
 ---
 
-## Pagamentos: Este microsserviço gerencia o processo de pagamento para os produtos comprados no marketplace.
+## Pagamentos
+Este microsserviço gerencia o processo de pagamento para os produtos comprados no marketplace.
 
 ### Registro de histórico de transações (1 ponto)
 
@@ -439,7 +440,7 @@ e permitir que os vendedores respondam e resolvam esses problemas de forma efici
 
 ---
 
-## Busca de produtos:
+## Busca de produtos
 
 Este microsserviço vai ser responsável por realizar a busca de produtos conforme os filtros solicitados. As buscas devem
 ser integradas com os serviços de Gerenciamento de Produtos e o Gerenciamento de Estoque
